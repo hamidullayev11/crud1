@@ -1,0 +1,56 @@
+.container-fluid{
+    background-color: aquamarine;
+   
+   
+}
+
+.navbar-brand{
+    font-size: 26px;
+}
+
+.form{
+   
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    gap: 26px;
+    align-items: center;
+}
+
+.input-group {
+  width: 50%;
+}
+
+.form-floating{
+    width: 50%;
+}
+
+.mb-3{
+    width: 50%;
+}
+
+.card{
+    width: 18rem;
+}
+
+.row{
+    gap: 24px;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+img{
+    height: 171px;
+}
+.navbar-nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
